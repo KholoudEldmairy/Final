@@ -1,3 +1,1 @@
-# Final
- training 
- Embedded System
+#   Embedded System
